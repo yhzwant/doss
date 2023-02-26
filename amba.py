@@ -155,7 +155,7 @@ def flood():
             r = client.post(abc)
             r = client.head(abc)
 
-            print(f"Status: {r.status_code} | {r.http_version} | Proxy IP @ {proxy}", end='\r')
+            print({proxy}", end='\r')
 
         except:
             print("Dead Proxy.")
