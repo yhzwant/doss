@@ -45,28 +45,8 @@ def stage(text, symbol = '...'):
     return f"{Col.Symbol(symbol, col2, col1, '{', '}')} {col2}{text}"
 
 banner = r"""
-       █████████████████████
-    ████▀                 ▀████
-  ███▀                       ▀███
- ██▀                           ▀██
-█▀                               ▀█
-█                                 █
-█   █████                 █████   █
-█  ██▓▓▓███             ███▓▓▓██  █
-█  ██▓▓▓▓▓██           ██▓▓▓▓▓██  █
-█  ██▓▓▓▓▓▓██         ██▓▓▓▓▓▓██  █
-█▄  ████▓▓▓▓██       ██▓▓▓▓████  ▄█
-▀█▄   ▀███▓▓▓██     ██▓▓▓███▀   ▄█▀
-  █▄    ▀█████▀     ▀█████▀    ▄█
-  ██           ▄█ █▄           ██
-  ██           ██ ██           ██
-  ██                           ██
-  ▀██  ██▀██  █  █  █  ██▀██  ██▀
-   ▀████▀ ██  █  █  █  ██ ▀████▀
-          ██  █  █  █  ██  
-          ██  █  █  █  ██
-          ██  █  █  █  ██
-           █▄▄█▄▄█▄▄█▄▄█
+
+  satu kata  "kontol"
 
 
 """.replace('▓', '▀')
@@ -79,8 +59,8 @@ try:
     
     http = requests.get('https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/http.txt').text # HTTP
     https = requests.get('https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/https.txt').text # HTTPS
-    socks4 = requests.get('https://sheesh.rip/http').text # Socks4
-    socks5 = requests.get('https://sheesh.rip/http').text # Socks5
+    socks4 = requests.get('https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks4.txt').text # Socks4
+    socks5 = requests.get('https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks5.txt').text # Socks5
     proxies = requests.get('https://sheesh.rip/all').text # Mixed
 
 except:
