@@ -77,11 +77,11 @@ print(Colorate.Diagonal(Col.DynamicMIX((Col.white, bpurple)), Center.XCenter(ban
 # -----------------------------------------------
 try:
     
-    http = requests.get('https://sheesh.rip/http').text # HTTP
-    https = requests.get('https://sheesh.rip/http').text # HTTPS
+    http = requests.get('https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/http.txt').text # HTTP
+    https = requests.get('https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/https.txt').text # HTTPS
     socks4 = requests.get('https://sheesh.rip/http').text # Socks4
     socks5 = requests.get('https://sheesh.rip/http').text # Socks5
-    proxies = requests.get('https://sheesh.rip/http').text # Mixed
+    proxies = requests.get('https://sheesh.rip/all').text # Mixed
 
 except:
     os.system('cls')
