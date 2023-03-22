@@ -1,0 +1,208 @@
+about.com	3	aol.com	2	bleacherreport.com	2	163.com	1	163.com
+amazon.com	1	bankofamerica.com	1	cnet.com	3	aliexpress.com	1	360.cn
+answers.com	1	cnet.com	1	cnn.com	3	alipay.com	2	about.com
+aol.com	8	cnn.com	1	dailymotion.com	1	amazon.com	1	adcash.com
+blogger.com	1	comcast.net	2	go.com	1	ask.com	1	adobe.com
+blogspot.com	4	dailymotion.com	2	hrblock.com	2	dailymail.co.uk	2	alibaba.com
+comcast.com	4	foxnews.com	3	imdb.com	1	fc2.com	1	aliexpress.com
+comcast.net	3	go.com	2	manta.com	1	hao123.com	3	alipay.com
+dailymotion.com	13	homedepot.com	1	paypal.com	1	ifeng.com	2	amazon.co.jp
+discovery.com	8	hp.com	1	walmart.com	1	imgur.com	1	amazon.com
+ebay.com	1	huffingtonpost.com	4	yahoo.com	1	msn.com	1	amazon.de
+ehow.com	12	hulu.com	12			netflix.com	1	answers.com
+evite.com	1	imdb.com	3			paypal.com	2	aol.com
+facebook.com	2	jcpenney.com	1			qq.com	1	apple.com
+go.com	3	mapquest.com	1			sina.com.cn	1	ask.com
+google.com	1	metrolyrics.com	8			sohu.com	2	att.com
+hp.com	2	msn.com	7			taobao.com	2	baidu.com
+huffingtonpost.com 	7	mtv.com	8			weibo.com	3	bankofamerica.com
+hulu.com	11	myspace.com	4			yahoo.co.jp	1	bbc.co.uk
+imdb.com	14	norton.com	1			yahoo.com	1	bestbuy.com
+jcpenney.com	1	nytimes.com	2			yandex.ru	3	bing.com
+lowes.com	3	pandora.com	2			youtube.com	2	bizrate.com
+mapquest.com	1	paypal.com	1					bleacherreport.com
+merriam-webster.com	4	photobucket.com	1					blogger.com
+metacafe.com	12	reference.com	7					blogspot.com
+monster.com	1	rr.com	1					buycheapr.com
+msn.com	1	shopathome.com	1					buzzfeed.com
+mtv.com	11	target.com	1					capitalone.com
+myspace.com	10	time.com	3					careerbuilder.com
+oprah.com	21	tmz.com	4					celebrity-gossip.net
+pandora.com	16	ups.com	1					chacha.com
+paypal.com	2	washingtonpost.com	1					chase.com
+people.com	6	weatherbug.com	1					chinadaily.com.cn
+pogo.com	3	webmd.com	1					chinaflix.com
+reference.com	5	wikia.com	4					city-data.com
+reuters.com	1	yahoo.com	1					classmates.com
+scribd.com	7	zimbio.com	3					clkmon.com
+sears.com	6							cnet.com
+target.com	1							cnn.com
+ticketmaster.com 	3							comcast.com
+time.com	19							comcast.net
+tripadvisor.com	2							coolmath-games.com
+tripod.com	1							craigslist.org
+twitter.com	1							dailymail.co.uk
+typepad.com	1							dailymotion.com
+ups.com	1							dell.com
+usmagazine.com	4							deviantart.com
+weather.com	1							digg.com
+whitepages.com	3							discovery.com
+wordpress.com	2							drudgereport.com
+wunderground.com 	4							drugs.com
+yahoo.com	12							ebay.com
+youtube.com	3							ebay.de
+zimbio.com	12							ehow.com
+								en.wikipedia.org
+								espn.go.com
+								evite.com
+								expedia.com
+								ezinearticles.com
+								facebook.com
+								fandango.com
+								fc2.com
+								fifa.com
+								flickr.com
+								foxnews.com
+								geocities.com
+								gmw.cn
+								go.com
+								godaddy.com
+								google.ca
+								google.co.id
+								google.co.in
+								google.co.jp
+								google.co.uk
+								google.com
+								google.com.au
+								google.com.br
+								google.com.hk
+								google.com.mx
+								google.com.tr
+								google.de
+								google.es
+								google.fr
+								google.it
+								google.pl
+								google.ru
+								gossipcenter.com
+								hao123.com
+								homedepot.com
+								hp.com
+								hrblock.com
+								hubpages.com
+								huffingtonpost.com
+								hulu.com
+								ifeng.com
+								imdb.com
+								imgur.com
+								inbox.com
+								info.com
+								instagram.com
+								intuit.com
+								irs.gov
+								jcpenney.com
+								kickass.to
+								legacy.com
+								linkedin.com
+								live.com
+								livestrong.com
+								lowes.com
+								mail.ru
+								manta.com
+								mapquest.com
+								match.com
+								merriam-webster.com
+								metacafe.com
+								metrolyrics.com
+								microsoft.com
+								mlb.com
+								monster.com
+								msn.com
+								mtv.com
+								myspace.com
+								neobux.com
+								netflix.com
+								nih.gov
+								norton.com
+								nydailynews.com
+								nytimes.com
+								odnoklassniki.ru
+								oprah.com
+								pandora.com
+								paypal.com
+								people.com
+								people.com.cn
+								photobucket.com
+								pinterest.com
+								pogo.com
+								pornhub.com
+								pronto.com
+								qq.com
+								reddit.com
+								reference.com
+								reuters.com
+								rr.com
+								scribd.com
+								sears.com
+								shopathome.com
+								shopzilla.com
+								simplyhired.com
+								sina.com.cn
+								smarter.com
+								sohu.com
+								soso.com
+								squidoo.com
+								stackoverflow.com
+								t.co
+								tagged.com
+								taobao.com
+								target.com
+								themeforest.net
+								thepiratebay.se
+								thepostgame.com
+								ticketmaster.com
+								time.com
+								tmall.com
+								tmz.com
+								tripadvisor.com
+								tripod.com
+								tumblr.com
+								turbotax.com
+								twitter.com
+								typepad.com
+								uol.com.br
+								ups.com
+								usmagazine.com
+								usps.com
+								verizon.com
+								verizonwireless.com
+								vimeo.com
+								vk.com
+								vube.com
+								vzw.com
+								walmart.com
+								washingtonpost.com
+								weather.com
+								weatherbug.com
+								webmd.com
+								weibo.com
+								wellsfargo.com
+								whitepages.com
+								wikia.com
+								wikimedia.org
+								wikipedia.org
+								windows.com
+								wordpress.com
+								wordpress.org
+								wunderground.com
+								xhamster.com
+								xinhuanet.com
+								xnxx.com
+								xvideos.com
+								yahoo.co.jp
+								yahoo.com
+								yandex.ru
+								yellowpages.com
+								yelp.com
+								youtube.com
+								zimbio.com
