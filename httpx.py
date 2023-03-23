@@ -38,7 +38,7 @@ def test(atk_url, cookie: str, proxy, ua):
 				pass
 
 
-for line in open('.cookietmp.txt'):
+for line in open('cookies.txt'):
 	line = line.strip()
 	proxyip_port = line.split('---')[1]
 	cookie = line.split('---')[0]
