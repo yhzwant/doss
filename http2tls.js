@@ -29,7 +29,7 @@ if (process.argv.length < 7){
 }
 
 let randomparam = false;
-var proxies = fs.readFileSync('proxies.txt', 'utf-8').toString().replace(/\r/g, '').split('\n');
+var proxies = fs.readFileSync('proxy.txt', 'utf-8').toString().replace(/\r/g, '').split('\n');
 var UAs = fs.readFileSync('ua.txt', 'utf-8').replace(/\r/g, '').split('\n');
 var rate = process.argv[5];
 var target_url = process.argv[3];
